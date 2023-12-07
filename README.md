@@ -1,7 +1,7 @@
 # Data-Visualization-Python
 
-#Install Dependency
+### Install Dependency
 
-pip install pandas matplotlib
-
-pip install openpyxl
+1. pip install pandas
+2. pip install matplotlib
+3. pip install openpyxl
